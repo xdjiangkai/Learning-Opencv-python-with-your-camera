@@ -1,4 +1,4 @@
-# Learning Opencv-python
+# Learning Opencv-python with your camera
 Image_Filtering_Edge_Detection_Morphology_Demo
 ### Function: Call PC camera, run the following routine:
 * GaussianBlur
